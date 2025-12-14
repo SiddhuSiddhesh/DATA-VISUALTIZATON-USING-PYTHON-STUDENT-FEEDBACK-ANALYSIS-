@@ -1,0 +1,201 @@
+Student_ID,Subject,Comment,Rating
+1,Computer Science,Concepts were explained using real-life examples.,5
+2,Science,The teacher explained every topic clearly.,4
+3,Science,The practicals made learning easier.,5
+4,Science,Did not find the lectures engaging.,1
+5,Chemistry,The course pace was too fast to understand.,3
+6,Math,Concepts were explained using real-life examples.,4
+7,Science,Classes were boring and repetitive.,2
+8,Computer Science,The course was okay but could be improved.,3
+9,Science,The practicals made learning easier.,5
+10,Chemistry,Hard to follow due to unclear explanations.,2
+11,Physics,Neutral experience overall.,4
+12,Physics,Assignments helped in understanding the subject deeply.,5
+13,Science,Could include more real-world applications.,4
+14,English,The teacher explained every topic clearly.,4
+15,Chemistry,Assignments helped in understanding the subject deeply.,4
+16,History,The course structure was well designed.,4
+17,Physics,The course pace was too fast to understand.,2
+18,Chemistry,"Overall, a great learning experience.",4
+19,Economics,The notes were good but lacked examples.,4
+20,Chemistry,"Overall, a great learning experience.",5
+21,English,Did not find the lectures engaging.,1
+22,Physics,The course pace was too fast to understand.,2
+23,Physics,Could include more real-world applications.,4
+24,Math,The teacher explained every topic clearly.,5
+25,Math,The notes were good but lacked examples.,4
+26,Economics,The course was okay but could be improved.,3
+27,Computer Science,The course structure was well designed.,4
+28,Economics,Sometimes the lectures were lengthy.,4
+29,Math,Could include more real-world applications.,4
+30,Physics,Group activities were decent.,3
+31,Math,Assignments were difficult and unclear.,3
+32,Science,Did not find the lectures engaging.,3
+33,Economics,The teacher explained every topic clearly.,5
+34,History,The teacher rarely clarified doubts.,3
+35,Computer Science,Neutral experience overall.,3
+36,Math,Assignments helped in understanding the subject deeply.,5
+37,Economics,The teacher explained every topic clearly.,4
+38,English,The practicals made learning easier.,5
+39,History,Did not find the lectures engaging.,2
+40,Math,The teacher rarely clarified doubts.,3
+41,Economics,The teacher made even tough topics simple.,5
+42,Physics,Average teaching experience.,4
+43,Physics,Assignments helped in understanding the subject deeply.,4
+44,English,The class was very informative and engaging.,4
+45,Chemistry,The practicals made learning easier.,5
+46,English,The teacher rarely clarified doubts.,2
+47,Computer Science,The overall pace was moderate.,4
+48,Math,I liked how the instructor encouraged participation.,5
+49,Chemistry,The practicals made learning easier.,5
+50,Chemistry,Could include more real-world applications.,4
+51,Computer Science,The notes were good but lacked examples.,4
+52,History,Hard to follow due to unclear explanations.,2
+53,English,Did not find the lectures engaging.,3
+54,Computer Science,The teacher made even tough topics simple.,4
+55,Computer Science,Assignments were difficult and unclear.,1
+56,Science,"Overall, a great learning experience.",4
+57,Science,"Too much theory, not enough practical examples.",1
+58,Physics,Neutral experience overall.,4
+59,English,"Too much theory, not enough practical examples.",3
+60,English,The practicals made learning easier.,5
+61,Science,The practicals made learning easier.,5
+62,Computer Science,Concepts were explained using real-life examples.,5
+63,History,Assignments helped in understanding the subject deeply.,4
+64,Chemistry,Did not find the lectures engaging.,2
+65,Physics,The course structure was well designed.,4
+66,Physics,"Some topics were interesting, others not much.",3
+67,Chemistry,Classes were boring and repetitive.,1
+68,Science,"Some topics were interesting, others not much.",3
+69,History,The teacher rarely clarified doubts.,2
+70,Economics,Sometimes the lectures were lengthy.,3
+71,Computer Science,Not enough time for revision before exams.,3
+72,Computer Science,"Some topics were interesting, others not much.",3
+73,Physics,Too many topics covered too quickly.,1
+74,Physics,Neutral experience overall.,4
+75,Math,The teacher explained every topic clearly.,4
+76,History,Assignments helped in understanding the subject deeply.,5
+77,English,The teacher rarely clarified doubts.,1
+78,Math,"Too much theory, not enough practical examples.",3
+79,Chemistry,The teacher rarely clarified doubts.,1
+80,Computer Science,The class was very informative and engaging.,5
+81,Computer Science,I liked how the instructor encouraged participation.,4
+82,Chemistry,"Overall, a great learning experience.",4
+83,English,"Overall, a great learning experience.",5
+84,History,The teacher rarely clarified doubts.,2
+85,Physics,Too many topics covered too quickly.,2
+86,History,Concepts were explained using real-life examples.,4
+87,Economics,Too many topics covered too quickly.,2
+88,Chemistry,The teacher made even tough topics simple.,4
+89,Physics,Classes were boring and repetitive.,3
+90,History,Sometimes the lectures were lengthy.,4
+91,Science,Not enough time for revision before exams.,1
+92,History,Hard to follow due to unclear explanations.,2
+93,Math,Assignments were difficult and unclear.,2
+94,History,The overall pace was moderate.,3
+95,History,Very little feedback on assignments.,3
+96,Science,Hard to follow due to unclear explanations.,2
+97,English,Assignments were difficult and unclear.,2
+98,Economics,Assignments helped in understanding the subject deeply.,4
+99,Math,The class was very informative and engaging.,5
+100,Chemistry,"Too much theory, not enough practical examples.",3
+101,Physics,Assignments were difficult and unclear.,1
+102,History,Not enough time for revision before exams.,3
+103,Chemistry,The teacher rarely clarified doubts.,3
+104,Computer Science,The class was very informative and engaging.,5
+105,Math,"Too much theory, not enough practical examples.",1
+106,Math,Not enough time for revision before exams.,2
+107,English,Concepts were explained using real-life examples.,5
+108,Science,"Very interactive sessions, I enjoyed the course.",4
+109,English,The teacher rarely clarified doubts.,2
+110,Chemistry,Sometimes the lectures were lengthy.,3
+111,Physics,I liked how the instructor encouraged participation.,5
+112,Science,Sometimes the lectures were lengthy.,3
+113,Physics,Not enough time for revision before exams.,3
+114,Physics,Assignments were difficult and unclear.,2
+115,English,The teacher made even tough topics simple.,4
+116,Science,Neither too good nor too bad.,4
+117,History,Did not find the lectures engaging.,3
+118,Computer Science,Assignments were difficult and unclear.,3
+119,Economics,Assignments helped in understanding the subject deeply.,4
+120,History,Concepts were explained using real-life examples.,4
+121,Economics,Hard to follow due to unclear explanations.,2
+122,Chemistry,Assignments were difficult and unclear.,1
+123,Computer Science,Neutral experience overall.,3
+124,Chemistry,"Too much theory, not enough practical examples.",2
+125,Physics,The teacher rarely clarified doubts.,3
+126,English,"Some topics were interesting, others not much.",3
+127,Chemistry,Assignments helped in understanding the subject deeply.,4
+128,Economics,Did not find the lectures engaging.,2
+129,Computer Science,Too many topics covered too quickly.,3
+130,Chemistry,"Overall, a great learning experience.",4
+131,History,The course pace was too fast to understand.,3
+132,Physics,Assignments were difficult and unclear.,1
+133,Computer Science,The course structure was well designed.,4
+134,History,The course structure was well designed.,4
+135,Economics,Hard to follow due to unclear explanations.,1
+136,Chemistry,"Overall, a great learning experience.",5
+137,Physics,Not enough time for revision before exams.,2
+138,History,Average teaching experience.,3
+139,Computer Science,Not enough time for revision before exams.,3
+140,Math,The class was very informative and engaging.,5
+141,History,The class was very informative and engaging.,5
+142,History,"Very interactive sessions, I enjoyed the course.",4
+143,Math,"Too much theory, not enough practical examples.",1
+144,Computer Science,Assignments were difficult and unclear.,3
+145,History,The teacher made even tough topics simple.,4
+146,Computer Science,"Overall, a great learning experience.",4
+147,English,Average teaching experience.,3
+148,Computer Science,Classes were boring and repetitive.,3
+149,History,Concepts were explained using real-life examples.,4
+150,English,Did not find the lectures engaging.,3
+151,Math,Concepts were explained using real-life examples.,4
+152,Economics,Very little feedback on assignments.,3
+153,Science,Too many topics covered too quickly.,2
+154,Computer Science,Concepts were explained using real-life examples.,5
+155,History,The course was okay but could be improved.,3
+156,Economics,Not enough time for revision before exams.,1
+157,Chemistry,Neutral experience overall.,4
+158,Chemistry,Group activities were decent.,3
+159,English,"Too much theory, not enough practical examples.",3
+160,History,Classes were boring and repetitive.,3
+161,Math,Could include more real-world applications.,4
+162,English,The course was okay but could be improved.,3
+163,Economics,The teacher explained every topic clearly.,4
+164,Math,"Too much theory, not enough practical examples.",2
+165,Math,Did not find the lectures engaging.,3
+166,Economics,"Some topics were interesting, others not much.",4
+167,Physics,The teacher made even tough topics simple.,4
+168,Science,Could include more real-world applications.,4
+169,Math,Concepts were explained using real-life examples.,5
+170,Computer Science,The class was very informative and engaging.,5
+171,Physics,The course structure was well designed.,4
+172,Computer Science,"Overall, a great learning experience.",5
+173,Science,Assignments helped in understanding the subject deeply.,4
+174,Economics,The class was very informative and engaging.,5
+175,History,The class was very informative and engaging.,4
+176,Computer Science,Hard to follow due to unclear explanations.,1
+177,Computer Science,The practicals made learning easier.,4
+178,Computer Science,Very little feedback on assignments.,2
+179,English,"Overall, a great learning experience.",4
+180,Physics,I liked how the instructor encouraged participation.,5
+181,Physics,Assignments were difficult and unclear.,2
+182,Math,The notes were good but lacked examples.,3
+183,Science,The teacher rarely clarified doubts.,1
+184,Economics,Group activities were decent.,4
+185,Chemistry,Neutral experience overall.,4
+186,Computer Science,The teacher explained every topic clearly.,5
+187,Computer Science,Concepts were explained using real-life examples.,5
+188,Science,Sometimes the lectures were lengthy.,4
+189,Chemistry,Group activities were decent.,3
+190,History,Hard to follow due to unclear explanations.,2
+191,Math,The class was very informative and engaging.,5
+192,Physics,"Overall, a great learning experience.",5
+193,Economics,The course pace was too fast to understand.,2
+194,Science,Very little feedback on assignments.,3
+195,History,The teacher made even tough topics simple.,5
+196,Economics,The practicals made learning easier.,5
+197,Economics,The notes were good but lacked examples.,3
+198,History,The teacher made even tough topics simple.,5
+199,History,The teacher rarely clarified doubts.,2
+200,Math,Sometimes the lectures were lengthy.,4
